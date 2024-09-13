@@ -71,15 +71,7 @@ const perguntas = [
         ]
     },
 ];
-
-
-let atual = 0;
-let perguntaAtual;
-let historiaFinal = "";
-
-function mostraPergunta() {
-    if (atual >= perguntas.length) {
-        mostraResultado();
+https://github.com/gordindelas21/guilherme5traResultado();
         return;
     }
     perguntaAtual = perguntas[atual];
